@@ -4,4 +4,4 @@ CV website created to learn the basics of HTML and CSS.
 
 link below:
 
-https://github.com/embeddedsystemsjimbo/Brandon_CV_website
+https://embeddedsystemsjimbo.github.io/Brandon_CV_website/
