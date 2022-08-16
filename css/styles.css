@@ -1,0 +1,158 @@
+.top_container {
+  background-color: #A6D1E6;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.middle_container {
+  padding-top: 40px;
+  background-color: #FEFBF6;
+}
+
+.bottom_container {
+  background-color: #A6D1E6;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+p {
+  text-align: left;
+}
+
+hr {
+  border-style: none;
+  width: 80%;
+  border-top-style: solid;
+  border-width: 10px;
+  color: #A6D1E6;
+}
+
+body {
+  margin: 0;
+  position: relative;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+}
+
+h1 {
+  color: #7F5283;
+}
+
+h2 {
+  color: #7F5283;
+  font-family: "Silkscreen", sans-serif;
+  font-size: 2em;
+}
+
+.title {
+  width: 75%;
+}
+
+.title_name {
+  font-size: 6.25em;
+  font-family: "Silkscreen", sans-serif;
+  margin-right: 150px;
+}
+
+.title_description {
+  font-size: 2em;
+  font-family: "Silkscreen", sans-serif;
+}
+
+.profile_img {
+  padding: 50px;
+  height: 25%;
+  width: 25%;
+}
+
+.table {
+  margin: 0 auto 0 auto;
+  color: #3D3C42;
+}
+
+.title_image {
+  height: 75%;
+  width: 75%;
+  margin-left: 25%;
+}
+
+.row {
+  width: 80%;
+  margin: 0 auto 0 auto;
+  padding: 30px;
+  line-height: 2;
+  font-size: 20px;
+  color: #3D3C42;
+}
+
+.education-img {
+  margin-top: 100px;
+  float: left;
+  height: 15%;
+  width: 15%;
+}
+
+.certificate-img {
+  float: right;
+  height: 15%;
+  width: 15%;
+}
+
+.medal-img {
+  margin-top: 100px;
+  float: right;
+  height: 15%;
+  width: 15%;
+}
+
+.certificate-img {
+  margin-top: 100px;
+  float: left;
+  height: 15%;
+  width: 15%;
+}
+
+.working-time-img {
+  margin-top: 125px;
+  float: right;
+  height: 15%;
+  width: 15%;
+}
+
+.keyboard-img {
+  height: 15%;
+  width: 15%;
+}
+
+.btn {
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #FEFBF6;
+  font-size: 20px;
+  background: #7F5283;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #A6D1E6;
+  text-decoration: none;
+}
+
+.footer-link {
+  width: 100px;
+  text-decoration: none;
+  color: #7F5283;
+  margin: 0 10px 0 10px;
+}
+
+.contact {
+  padding-bottom: 50px;
+}
+
+a:hover {
+  color: #FEFBF6;
+}
